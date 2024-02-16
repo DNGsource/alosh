@@ -320,7 +320,7 @@ async def _(event):
                     if "A wait of" in str(eee):
                         break
                     else:
-                        await sython.send_message(event.chat.id, " اجاك متاح !")
+                        await sython.send_message(event.chat.id, "ɴᴇᴡ ᴜѕᴇʀɴᴀᴍᴇ ᴀᴠᴀɪʟᴀʙʟᴇ !")
             else:
                 pass
             trys += 1
